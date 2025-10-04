@@ -8,7 +8,7 @@ This repository is a collection of crowd-sourced resources for the Master of Com
 
 ## Structure
 
-The repository is organized by semester, and then by subject. This makes it easy to find the resources you are looking for.
+The repository is organized by semester, and then by subject. Beyond that it is not structured as of now.
 
 ```
 mca-resources/
@@ -73,6 +73,14 @@ To contribute:
     ```
 6.  **Create a new Pull Request:**
       * Go to your forked repository on GitHub and click on "New pull request".
+
+-----
+
+## Maintained by
+
+  * **[Sandeep Vishnoi](https://www.instagram.com/mrsandyy_/)** - [contact@mrsandy.in](mailto:contact@mrsandy.in)
+
+For any help, credits, or concerns, please feel free to reach out.
 
 -----
 
