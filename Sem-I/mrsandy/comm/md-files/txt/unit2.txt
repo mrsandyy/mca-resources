@@ -1,0 +1,213 @@
+UNIT-2 Functional Grammar
+2.1 Different Types of Parts of Speech (POS)
+Grammar analyzes language at the level of words, which belong to specific word classes known as parts of speech
+. The main parts of speech covered include:
+Part of Speech
+	
+Function and Description
+	
+Key Grammatical Features & Placement
+Nouns
+	
+Refer to people, places, things, ideas, or qualities
+.
+	
+Most nouns can be modified by an adjective, preceded by an article (a, an, the), and can stand as the Subject or Object of a clause
+. Nouns can be Countable or Uncountable
+.
+Pronouns
+	
+Words that 'stand for' or refer back to a noun, noun phrase, or idea already mentioned
+.
+	
+Pronouns used as objects must be in the objective case (e.g., me, him, not I, he)
+. They are used in the third person (he, she, they) for concord/agreement
+.
+Adjectives
+	
+Words that describe or modify nouns or pronouns, providing additional information about their qualities or attributes
+.
+	
+Types include descriptive, demonstrative, and possessive
+. They are used as complements after linking verbs (like to be, to seem, to become, appear, feel, remain, sound) where the adjective modifies the subject
+.
+Verbs
+	
+A large class of words referring to actions, states, or conditions
+.
+	
+Every clause must contain a verb phrase
+. Verbs must agree with the subject in number (singular/plural) and person (e.g., she is/we are). Types include full verbs (or main verbs) and auxiliary verbs (e.g., be, do, have, can, may)
+.
+Adverbs
+	
+Words that modify verbs, adjectives, or other adverbs, indicating how, when, where, or the extent of an action or quality occurs
+.
+	
+Types include adverbs of time, place, manner, degree, and frequency
+. Adverbs can be positioned at the initial, mid, or end position of a clause
+.
+Connectives
+/ Conjunctions
+	
+The 'joining words' of grammar, used to combine two or more clauses into one multiple sentence
+.
+	
+Coordinating conjunctions (and, or, but) join clauses of equal status in compound sentences
+. Subordinating conjunctions (when, although, because) introduce subordinate clauses in complex sentences
+.
+Prepositions
+	
+Words that link a noun or pronoun to another word in the sentence, typically preceding them to form a prepositional phrase
+.
+	
+The objective case is used after prepositions
+.
+2.2 Sentence Structure and Par Jumbles
+A. Sentence Structure (Syntax)
+Grammar analyzes language at different levels: words, phrases, clauses, and sentences
+. Syntax is the set of rules that describe how words are arranged to construct sentences
+.
+1. Sentence Components and Elements Simple sentences (containing one finite verb) are constructed using five possible functional elements
+:
+• Subject (S): Gives an indication of what the clause will be about and normally comes before the verb
+. Can be a noun, a noun phrase, or a pronoun
+.
+• Verb (V): The central part of the clause, often consisting of a verb phrase
+.
+• Object (O): Describes what is affected by the action of the verb
+. It usually comes after the verb and can be a direct object or an indirect object
+.
+• Complement (C): Refers to the same person or thing as the subject (after linking verbs) or the object (after verbs like make)
+.
+• Adverbial (A): Modifies the verb and answers questions like when, where, how, or why
+.
+2. Types of Sentences (Based on Structure),
+• Simple Sentences: Contain one finite clause (one finite verb)
+.
+• Multiple Sentences
+:
+    ◦ Compound Sentences: Contain two or more clauses of equal status joined by coordinating conjunctions (like and, but, or)
+.
+    ◦ Complex Sentences: Contain a main clause and one or more subordinate clauses
+. Subordinate clauses are grammatically less important and are nearly always introduced by a subordinating conjunction. Subordinate clauses can function as Adverbial Clauses (expressing time, place, condition, reason) or Noun Clauses (acting as subject, object, or complement)
+.
+B. Par Jumbles (Jumbled Sentences)
+This module deals with unscrambling or rearranging jumbled sentences
+. The objective is to rearrange the parts into a coherent and logical order. The process requires establishing a relationship between the parts
+.
+• The sources provide steps for approaching jumbled sentences
+.
+• The concepts apply to unscrambling simple sentences and complex sentences
+.
+• The skill can also be applied to unscrambling a full paragraph
+.
+2.3 Error Correction
+The course aims to help students formulate English sentences and avoid common errors
+. Error correction concentrates on grammatical mistakes frequently made by foreign students of English
+.
+Common Areas of Error and Remedial Grammar Focus:
+1. Agreement (Concord): Ensuring the verb agrees with the subject in number
+.
+    ◦ Special Cases: A plural number referring to a single figure or quantity (e.g., distances, weights, amounts of money) is treated as singular (e.g., Ten pounds is a lot of money, not are)
+. Collective names or titles of single works are also treated as singular
+.
+    ◦ Separated Subject and Verb: Special care is needed if a clause separates the subject from the verb, ensuring the verb agrees with the actual subject word
+.
+2. Use of Articles (A, An, The):
+    ◦ The Indefinite Article (a/an): Follows the word such when applied to countable things (e.g., such a wet summer, not a such wet summer)
+.
+    ◦ Omission of The: The is omitted before names of meals when they refer to the meals generally, as part of a daily routine (e.g., Breakfast is at eight o’clock, not the breakfast)
+. Similarly, the is usually omitted before names of languages
+.
+3. Redundancy in Complex Sentences:
+    ◦ Pronoun Redundancy: When combining sentences using a relative pronoun (which, that, who, whom, whose), the original noun or pronoun it replaces must not be used as well
+. (E.g., I have found the book which I lost yesterday, not which I lost it yesterday)
+.
+    ◦ Preposition Redundancy: Avoid repeating a preposition, especially when the relative pronoun is preceded by it
+.
+4. Confusion of Parts of Speech (Adjective/Adverb):
+    ◦ Ensuring that verbs like to be, to seem, to become (and others like appear, feel, look, grow, turn when meaning 'become') are followed by an adjective (complement), not an adverb, because the word is qualifying the subject
+. (E.g., The milk turned sour, not sourly)
+.
+5. Errors in Preposition Usage:
+    ◦ Omission Error: Certain intransitive verbs must be followed by their preposition (e.g., We listened to the music, not We listened the music)
+.
+    ◦ Mistaken Insertion: Transitive verbs like answer, approach, ask, attack, enter (meaning 'go in'), and resemble should not be followed by a preposition
+.
+6. Errors in Individual Word Usage (Lexical Errors): The use of specific words often leads to errors
+.
+    ◦ Deny vs. Refuse: Refuse means to decline an offer or an action (e.g., He refused the money). Deny means to say something is untrue
+.
+    ◦ Damage vs. Damages: Damage is a singular noun referring to destruction/injury (e.g., much damage). Damages is a plural noun meaning a sum of money awarded as compensation
+.
+    ◦ No Sooner: Must be followed by than, not when (e.g., No sooner had the match started, than it began to rain)
+.
+2.4 Vocabulary Building—Antonym, Synonym, Substitution
+Vocabulary building is essential for extending both the active (words one can use confidently) and passive (words one understands when reading/listening) vocabulary
+. It involves studying how words are constructed (stems, prefixes, suffixes)
+.
+A. Synonyms
+Synonyms are words with similar meanings
+.
+• Principle of Nuance: Although words may be similar, no two words are identical in meaning; there are nuances that make one word more appropriate than another in a given context
+.
+• Grammatical Status: The synonym of a noun must be a noun, the synonym of a verb must be a verb, and an adverb synonym must be an adverb, and so on
+.
+• Examples of Synonyms (by POS):
+    ◦ Nouns: affection – love; behaviour – conduct; competition – contest; knowledge – learning
+.
+    ◦ Adjectives: accurate – exact; bright – intelligent; common – ordinary; necessary – essential; strong – powerful
+.
+    ◦ Verbs: abandon – leave; confess – admit; forgive – pardon; search – seek; want – need
+.
+    ◦ Adverbs: certainly – surely; clearly – plainly; formerly – previously; frequently – often
+.
+B. Antonyms (Anatomy/Opposites)
+An antonym is a word that means the opposite of another word
+. Knowledge of antonyms is important for understanding the context and situation, as some words may have multiple possible opposites
+.
+• Formation Methods: Antonyms can be formed in four ways
+:
+    1. By adding a prefix (e.g., able – unable; honest – dishonest; legal – illegal)
+.
+    2. By changing the prefix (e.g., absent – present; export – import; increase – decrease)
+.
+    3. By changing the suffix (e.g., harmless – harmful; useful – useless; lively – lifeless)
+.
+    4. By means of a completely new word
+.
+• Examples of Antonyms (by POS):
+    ◦ Nouns: adult – child; arrival – departure; back – front; entrance – exit; master – servant; poverty – wealth; war – peace; weakness – strength
+.
+    ◦ Adjectives: angry – pleased; common – rare; fair – dark; generous – selfish; permanent – temporary; true – false
+.
+    ◦ Verbs: accept – refuse; allow – forbid; blame – praise; join – separate; love – hate
+.
+C. One Word Substitution
+One word substitution involves replacing a phrase, clause, or complex definition with a single, concise word
+.
+• Examples of Substitutions:
+    ◦ The science of the structure of the human body – anatomy
+. (Note: This specific term links directly to the syllabus heading "anatomy"
+.)
+    ◦ One who is present everywhere – omnipresent
+.
+    ◦ One who is all powerful – omnipotent
+.
+    ◦ One who acts against religion – heretic
+.
+    ◦ A feeling of having already experienced the present situation – Déjà Vu
+.
+    ◦ In exactly the same words as were used originally – Verbatim
+.
+    ◦ A person skilled in dictionary writing – lexicographer
+.
+    ◦ A place where money is coined – mint
+.
+    ◦ A list of errors – Errata
+.
+    ◦ A person or thing appointed for a specific purpose – Ad Hoc
+.
+    ◦ Something which means 'complete and detailed' or 'everything considered' – altogether
+.
